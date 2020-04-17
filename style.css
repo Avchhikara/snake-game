@@ -8,16 +8,13 @@ body {
   flex-wrap: wrap;
   border-style: solid;
 }
-
 .grid div {
   width: 20px;
   height: 20px;
 }
-
 .snake {
   background-color: blue;
 }
-
 .apple {
   background-color: purple;
 }
